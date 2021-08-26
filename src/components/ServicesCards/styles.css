@@ -1,0 +1,10 @@
+.bg-container {
+	min-height: 50vh;
+	padding: 50px 0;
+}
+
+.cardsContainer {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 1rem;
+}

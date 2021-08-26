@@ -1,0 +1,28 @@
+.Container {
+	margin: 0 auto;
+	max-width: var(--max-size);
+}
+
+.fixed {
+	backdrop-filter: blur(2px);
+	background-color: var(--bg-navbar);
+	box-shadow: 0rem -0.5rem 2rem black;
+	position: fixed;
+
+	top: 0;
+	width: 100%;
+	z-index: 100;
+}
+
+@media (max-width: 600px) {
+	.Container {
+		height: inherit;
+		padding: 0 !important;
+		margin: 0 !important;
+		width: 100%;
+	}
+
+	.fixed {
+		height: 50px;
+	}
+}

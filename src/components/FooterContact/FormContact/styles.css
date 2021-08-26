@@ -1,0 +1,48 @@
+.form h2 {
+	font-size: 2rem;
+}
+
+.form p {
+	font-size: 1.2rem;
+	text-align: center;
+}
+
+.form form {
+	background-color: rgb(255, 255, 255);
+	border-radius: 2rem;
+	display: flex;
+	height: 2.5rem;
+
+	margin: 2rem auto;
+	padding: 0.2rem;
+	width: 25rem;
+}
+
+.form input {
+	border-radius: 2rem 0 0 2rem;
+	padding-left: 1rem;
+	width: 70%;
+}
+
+.form form button {
+	background-color: rgb(255, 135, 23);
+	border: none;
+	border-radius: inherit;
+	color: white;
+
+	cursor: pointer;
+	font-weight: 700;
+	outline: none;
+
+	width: 50%;
+}
+
+.form form button:hover {
+	opacity: 0.8;
+}
+
+@media (max-width: 600px) {
+	.form form {
+		width: 100%;
+	}
+}

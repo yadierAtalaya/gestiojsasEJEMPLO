@@ -1,0 +1,17 @@
+.image-card {
+	text-align: center;
+	max-height: 350px;
+}
+.info-card {
+	text-align: center;
+	padding: 20px;
+	font-size: 1rem;
+}
+.flex-reverse {
+	flex-direction: row-reverse;
+}
+
+.info-card p {
+	text-align: justify;
+	margin-top: 25px;
+}

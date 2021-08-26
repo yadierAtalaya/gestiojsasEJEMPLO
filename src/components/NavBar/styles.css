@@ -1,0 +1,22 @@
+.navbar {
+	background-color: var(--bg-navbar) !important;
+	justify-content: space-between !important;
+	width: 100% !important;
+}
+
+.navbar button {
+	border: none !important;
+	outline: none !important;
+}
+
+.navbar .dropdown-menu a {
+	color: black !important;
+}
+
+.navbar-toggler {
+	margin-right: 1rem;
+}
+
+.navbar-brand {
+	margin-left: 1rem;
+}

@@ -1,0 +1,18 @@
+.iconsContact {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    width: 7rem;
+}
+
+
+.iconsContact a{
+    text-decoration: none;
+}
+
+.iconsContact svg {
+    text-decoration: none;
+    fill: white;
+    width: 1.5rem;
+}
+  

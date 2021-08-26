@@ -1,0 +1,75 @@
+{
+	"home": { "text": "INICIO", "link": "/" },
+	"service": {
+		"text": "SERVICIOS",
+		"link": "#service",
+		"services": [
+			{
+				"text": "Procesos de seleccion de personal",
+				"link": "/procesos"
+			},
+			{ "text": "Entrevista", "link": "/entrevista" },
+			{ "text": "Estudio de seguridad", "link": "/estudiodeseguridad" },
+			{ "text": "Examenes medicos", "link": "/examenesmedicos" },
+			{
+				"text": "Temporalidad (Talento humano en mision)",
+				"link": "/temporalidad"
+			}
+		]
+	},
+	"aboutUs": {
+		"text": "QUIENES SOMOS",
+		"link": "#service",
+		"services": [
+			{
+				"text": "Mision",
+				"link": "/ocupacionalmedicine"
+			},
+			{
+				"text": "Vision",
+				"link": "/ocupacionalmedicine"
+			},
+			{
+				"text": "Cultura organizacional",
+				"link": "/ocupacionalmedicine"
+			},
+			{
+				"text": "Organigrama",
+				"link": "/ocupacionalmedicine"
+			}
+		]
+	},
+	"SecurityAndHealthAtWork": {
+		"text": "SST",
+		"link": "#service",
+		"services": [
+			{
+				"text": "Medicina laboral",
+				"link": "/ocupacionalmedicine"
+			}
+		]
+	},
+	"naturalPerson": {
+		"text": "PERSONA NATURAL-PYMES",
+		"link": "#service",
+		"services": [
+			{
+				"text": "Outsorcing de nomina ",
+				"link": "/outsorcing"
+			},
+			{
+				"text": "Asesorias legales",
+				"link": "/legaladvisory"
+			},
+			{
+				"text": "Asesorias tributarias",
+				"link": "/trivutary"
+			},
+			{
+				"text": "Administracion en seguridad social",
+				"link": "/socialsecurity"
+			}
+		]
+	},
+	"footerContact": { "text": "CONTACTENOS", "link": "#footer" }
+}
